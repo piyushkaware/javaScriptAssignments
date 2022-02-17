@@ -1,0 +1,22 @@
+#download{
+    /* height: 20px;
+    width: 50px; */
+    padding: 20px;
+    margin: 20px;
+}
+
+.completed, .inProgress{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+    margin: 20px;
+    
+
+}
+.completed{
+    background-color: lightgreen;
+}
+.inProgress{
+    background-color: lightsalmon;
+}
+
